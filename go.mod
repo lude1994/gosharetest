@@ -1,3 +1,3 @@
-module github.com/lude1994/gosharetest/v2
+module gosharetest
 
 go 1.18
